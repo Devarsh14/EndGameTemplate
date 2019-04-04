@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndGameTemplate", "EndGameTemplate\EndGameTemplate.csproj", "{3304DA1A-BFB5-48A9-AD06-4B8BBA85D0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3304DA1A-BFB5-48A9-AD06-4B8BBA85D0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304DA1A-BFB5-48A9-AD06-4B8BBA85D0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304DA1A-BFB5-48A9-AD06-4B8BBA85D0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304DA1A-BFB5-48A9-AD06-4B8BBA85D0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68C85C9-4A61-47B5-90F3-F66E1DE71DB1}
+	EndGlobalSection
+EndGlobal
